@@ -1,0 +1,25 @@
+# IDEs
+.idea/
+.vscode/
+.DS_Store
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+cover.out
+coverage.txt
+vendor/
+go.work
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+
+# Logs
+*.log
